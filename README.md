@@ -1,3 +1,4 @@
+
 # Java Web Application with Automated CI/CD
 
 ## Features
@@ -48,3 +49,5 @@ Then visit `http://localhost:8080/`.
 
 ## Notes
 This pipeline publishes the image to Docker Hub. It does not deploy to a cloud server or production environment; add a deployment job and target credentials if deployment is required.
+
+
